@@ -1,5 +1,5 @@
 # MTD-split/merge
-This code has been made avaialble for the purposes of the following paper: "An object-based climatology of precipitation systems in Sydney, Australia"
+This code has been made available for the purposes of the following paper: "An object-based climatology of precipitation systems in Sydney, Australia"
 This is a modified version of the MODE-Time-Domain (MTD) algorithm to track the detected objects in gridded datasets. The modified version handles the split/merge events which is not considered in the original MTD.
 
 Please check the example in MTD-splitmerge.py.
