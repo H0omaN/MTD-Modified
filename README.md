@@ -1,5 +1,5 @@
 # MTD-split/merge
-This code has been made available for the purposes of the following paper: 
+This code has been made available for the purposes of the following paper submitted to Climate Dynamics: 
 
 "An object-based climatology of precipitation systems in Sydney, Australia"
 
